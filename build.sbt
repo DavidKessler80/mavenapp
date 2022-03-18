@@ -1,5 +1,5 @@
-organization := "com.kessler"
-name := "mavenapp"
-version := "0.1-SNAPSHOT"
+ThisBuild / organization := "com.kessler"
+ThisBuild / name := "mavenapp"
+ThisBuild / version := "0.1-SNAPSHOT"
 
-scalaVersion := "2.12.12"
+ThisBuild / scalaVersion := "2.12.12"
